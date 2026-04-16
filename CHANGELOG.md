@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.0
+
+- Added `Midnight Slate JetBrains` as a second bundled theme for A/B testing
+- Switched the new variant to a JetBrains-style workbench base with Midnight Slate editor styling
+
 ## 0.1.1
 
 - Refined Quick Open and symbol search styling

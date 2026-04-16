@@ -13,6 +13,13 @@ Midnight Slate is a VS Code color theme tuned for long sessions in Java-heavy pr
 ## Included theme
 
 - `Midnight Slate`
+- `Midnight Slate JetBrains`
+
+## Theme variants
+
+`Midnight Slate` keeps the stronger blue-accent workbench and the original Midnight Slate shell.
+
+`Midnight Slate JetBrains` uses a JetBrains New UI Dark style workbench as the base layer while keeping the Midnight Slate editor palette, Java readability tweaks, and Monokai-derived syntax balance.
 
 ## Local development
 

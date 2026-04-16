@@ -2,7 +2,7 @@
   "name": "vscode-midnight-slate-theme",
   "displayName": "Midnight Slate Theme",
   "description": "A VS Code theme that blends Monokai syntax with a JetBrains-style dark workbench.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "publisher": "springandme",
   "license": "MIT",
   "repository": {
@@ -37,6 +37,11 @@
         "label": "Midnight Slate",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-slate-color-theme.json"
+      },
+      {
+        "label": "Midnight Slate JetBrains",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-slate-jetbrains-color-theme.json"
       }
     ]
   },
