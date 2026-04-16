@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1
+
+- Updated `Midnight Slate JetBrains Base` to use a blue VS Code-style status bar
+
 ## 0.3.0
 
 - Added `Midnight Slate JetBrains Base`
