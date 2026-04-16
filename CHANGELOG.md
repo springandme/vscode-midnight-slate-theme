@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.2
+
+- Reworked editor overlay contrast for `Midnight Slate JetBrains Base`
+- Improved peek references, suggest, and hover layering without changing the JetBrains clean-base shell
+
 ## 0.3.1
 
 - Updated `Midnight Slate JetBrains Base` to use a blue VS Code-style status bar
