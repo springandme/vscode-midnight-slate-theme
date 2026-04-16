@@ -1,0 +1,50 @@
+{
+  "name": "vscode-midnight-slate-theme",
+  "displayName": "Midnight Slate Theme",
+  "description": "A VS Code theme that blends Monokai syntax with a JetBrains-style dark workbench.",
+  "version": "0.1.0",
+  "publisher": "springandme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/springandme/vscode-midnight-slate-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/springandme/vscode-midnight-slate-theme/issues"
+  },
+  "homepage": "https://github.com/springandme/vscode-midnight-slate-theme#readme",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "monokai",
+    "jetbrains",
+    "java",
+    "workbench"
+  ],
+  "galleryBanner": {
+    "color": "#181818",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-slate-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish:extension": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2"
+  }
+}
