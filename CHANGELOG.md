@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.0
+
+- Added `Midnight Slate JetBrains Base`
+- Rebuilt the JetBrains variant from a clean `main` baseline
+- Switched the variant to a JetBrains-based workbench with editor-only Midnight Slate overrides
+
 ## 0.1.1
 
 - Refined Quick Open and symbol search styling
