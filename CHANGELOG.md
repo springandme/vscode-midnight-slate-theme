@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.3
+
+- Fixed the Quick Open / Command Palette regression in `Midnight Slate JetBrains Base`
+- Kept the peek view readability improvements while restoring the JetBrains-like quick input styling
+
 ## 0.3.2
 
 - Reworked editor overlay contrast for `Midnight Slate JetBrains Base`
